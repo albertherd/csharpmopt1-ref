@@ -1,4 +1,4 @@
-# csharpmopt1-ref
+# Exploring micro optimizations in c# Part 1 - using ref with structs
 Exploring micro optimizations in c# Part 1 - using ref with structs
 
 Follow the accompanying blog post here - https://albertherd.com/2019/06/20/c-micro-optimizations-part-1-ref-arguments/
